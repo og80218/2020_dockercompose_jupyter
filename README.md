@@ -17,3 +17,8 @@
 	docker-compose up -d
 	
 	#啟動完成後，可開啟windows網頁，網址輸入虛擬機器IP:8889，有顯示表示完成。
+	
+	
+#註記:欲修改images，可至資料夾dockerfile目錄下，
+
+#修改dockerfile-jupyter內的FROM XXXX(XXXX可至dockerhub查詢)
