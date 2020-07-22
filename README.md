@@ -21,4 +21,4 @@
 	
 #註記:欲修改images，可至資料夾dockerfile目錄下，
 
-#修改dockerfile-jupyter內的FROM XXXX(XXXX可至dockerhub查詢)
+#修改dockerfile-jupyter內的FROM XXXX(XXXX可至dockerhub查詢)1234
